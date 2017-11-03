@@ -1,0 +1,26 @@
+h2{
+  color: #eea30d;
+  font-weight: bold;
+}
+
+p{
+  color: #70ee0d;
+  background-color: #0d0764;
+  font-size: 200%;
+}
+body {
+  text-align: center;
+  font-family: courier;
+  background-image:url("../assets/image.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+th {
+  color: #2de70c;
+  text-align: center;
+}
+
+td {
+  color: #e7c60c;
+}
