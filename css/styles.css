@@ -14,6 +14,10 @@ body {
   background-size: 100%;
 }
 
+p {
+  color: #07F9C4;
+}
+
 $start:rgba(66,181,213,0.5);
 $end:rgba(58,210,11,0.5);;
 
