@@ -9,7 +9,11 @@ body {
 
 .container {
   background-color: #014040;
+  background-image:url("../assets/image.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
+
 $start:rgba(66,181,213,0.5);
 $end:rgba(58,210,11,0.5);;
 
@@ -34,6 +38,7 @@ h1{
   width:92.5%;
   margin:auto;
   max-width:30em;
+  background-color: #4F1A02;
 }
 
 input{
