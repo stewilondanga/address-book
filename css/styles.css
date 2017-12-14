@@ -7,6 +7,9 @@ body {
   color: #F4B31C;
 }
 
+.container {
+  background-color: #014040;
+}
 $start:rgba(66,181,213,0.5);
 $end:rgba(58,210,11,0.5);;
 
