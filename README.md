@@ -16,7 +16,7 @@ Click here to search for contacts - Clicking this instruction will give you a fo
 
 Click here to add a new contact - Clicking this instruction will give you a form for creating a new contact
 
-#Technologies used
+# Technologies used
 HTML
 
 CSS
